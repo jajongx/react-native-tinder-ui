@@ -1,1 +1,0 @@
-export { SimpleNavBar } from './SimpleNavBar';
