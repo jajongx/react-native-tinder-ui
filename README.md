@@ -6,9 +6,9 @@ like, left to dislike, undo the last action, and review liked cards in a snappin
 # Screenshots
 
 <div>
-<img width="250" height="450" style="float: left" src="https://github.com/atoami/react-native-tinder-ui/blob/master/screenshot.gif" />
-<img width="250" height="450" style="float: left" src="https://github.com/atoami/react-native-tinder-ui/blob/master/image1.png" />
-<img width="250" height="450" style="float: left" src="https://github.com/atoami/react-native-tinder-ui/blob/master/image2.png" />
+<img width="250" height="450" style="float: left" src="https://github.com/jajongx/react-native-tinder-ui/blob/master/screenshot.gif" />
+<img width="250" height="450" style="float: left" src="https://github.com/jajongx/react-native-tinder-ui/blob/master/image1.png" />
+<img width="250" height="450" style="float: left" src="https://github.com/jajongx/react-native-tinder-ui/blob/master/image2.png" />
 </div>
 
 ## Stack
